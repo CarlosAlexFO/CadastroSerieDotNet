@@ -1,6 +1,6 @@
 # CadastroSerieDotNet
 
-### Console de cadastro de Séries com um CRUD.
+### Aplicativo de cadastro de Séries com CRUD.
 
 ### Criado com VS Code em .Net
 
