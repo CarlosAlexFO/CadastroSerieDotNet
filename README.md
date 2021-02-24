@@ -4,4 +4,4 @@
 
 ### Criado com VS Code em .Net
 
-### Aulas ministradas  na plataforma Digital Innovation One pelo instrutor Eliézer Zarpelão.
+### Aulas ministradas pelo instrutor Eliézer Zarpelão na plataforma Digital Innovation One.
