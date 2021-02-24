@@ -1,0 +1,39 @@
+C:\Users\carlo\OneDrive\Área de Trabalho\Dio\Dio.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\Dio\Dio.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Dio\Dio.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Dio\Dio.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\carlo\OneDrive\Área de Trabalho\Dio\Dio.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Dio\Dio.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Dio\Dio.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Dio\Dio.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Dio\Dio.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\Dio\Dio.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\Dio\Dio.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\Dio\Dio.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\Dio\Dio.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
+E:\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+E:\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+E:\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+E:\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+E:\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+E:\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+E:\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+E:\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+E:\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+E:\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+E:\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+E:\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+E:\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
+C:\Dio\CadastroSerieDotNet\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Dio\CadastroSerieDotNet\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Dio\CadastroSerieDotNet\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Dio\CadastroSerieDotNet\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Dio\CadastroSerieDotNet\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Dio\CadastroSerieDotNet\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Dio\CadastroSerieDotNet\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\Dio\CadastroSerieDotNet\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Dio\CadastroSerieDotNet\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Dio\CadastroSerieDotNet\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Dio\CadastroSerieDotNet\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Dio\CadastroSerieDotNet\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Dio\CadastroSerieDotNet\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
