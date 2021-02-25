@@ -5,5 +5,5 @@
 ### Treinamento ministrado pelo instrutor Eliezer Zarpelão 
 ### pela plataforma Digital Innovation One.
 ##
-### Abaixo uma previa do aplicativo:
+### Abaixo uma prévia das funcionalidades do aplicativo:
 ![Login](https://github.com/CarlosAlexFO/CadastroSerieDotNet/blob/main/DIO.Series/appSeries.gif)
